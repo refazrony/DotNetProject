@@ -16,3 +16,5 @@ G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastructure.pdb
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\ref\CleanAr.Infrastructure.dll
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastructure.sourcelink.json
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\bin\Debug\net8.0\CleanAr.Infrastructure.runtimeconfig.json
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastructure.genruntimeconfig.cache

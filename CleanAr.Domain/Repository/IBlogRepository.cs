@@ -9,7 +9,7 @@ namespace CleanAr.Domain.Repository
         Task<Blog> GetByIdAsync(int id);
         Task<Blog> CreateAsync(Blog blog);
         Task<int> UpdateAsync(int id, Blog blog);
-        Task<Blog> DelteAsync(int id);
+        Task<int> DelteAsync(int id);
 
     }
 
