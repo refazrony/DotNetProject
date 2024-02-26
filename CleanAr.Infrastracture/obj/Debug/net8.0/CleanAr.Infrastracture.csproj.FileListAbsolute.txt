@@ -1,0 +1,17 @@
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\bin\Debug\net8.0\CleanAr.Infrastracture.deps.json
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\bin\Debug\net8.0\CleanAr.Infrastracture.dll
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\bin\Debug\net8.0\CleanAr.Infrastracture.pdb
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\bin\Debug\net8.0\CleanAr.Application.dll
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\bin\Debug\net8.0\CleanAr.Domain.dll
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\bin\Debug\net8.0\CleanAr.Application.pdb
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\bin\Debug\net8.0\CleanAr.Domain.pdb
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastracture.csproj.AssemblyReference.cache
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastracture.AssemblyInfoInputs.cache
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastracture.AssemblyInfo.cs
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastracture.csproj.CoreCompileInputs.cache
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastracture.csproj.CopyComplete
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastracture.dll
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\refint\CleanAr.Infrastracture.dll
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastracture.pdb
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\ref\CleanAr.Infrastracture.dll
