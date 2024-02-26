@@ -1,6 +1,8 @@
-﻿namespace CleanAr.Application.Blogs.Queries.GetBlogs
+﻿using CleanAr.Application.Commoms.Mappings;
+
+namespace CleanAr.Application.Blogs.Queries.GetBlogs
 {
-    public class BlogVm
+    public class BlogVm : IMapFrom<BlogVm>
     {
         public int id { get; set; }
         public string Name { get; set; }
