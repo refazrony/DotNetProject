@@ -13,3 +13,4 @@ G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Debug\ne
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\bin\Debug\net8.0\CleanAr.Domain.dll
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\bin\Debug\net8.0\CleanAr.Domain.pdb
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Debug\net8.0\CleanAr.Application.csproj.CopyComplete
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Debug\net8.0\CleanAr.Application.sourcelink.json

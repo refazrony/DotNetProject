@@ -42,3 +42,4 @@ G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr\bin\Debug\net8.0\CleanAr
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr\bin\Debug\net8.0\CleanAr.Application.pdb
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr\bin\Debug\net8.0\CleanAr.Infrastructure.pdb
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr\bin\Debug\net8.0\CleanAr.Domain.pdb
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr\obj\Debug\net8.0\CleanAr.sourcelink.json

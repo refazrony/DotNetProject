@@ -15,3 +15,4 @@ G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\refint\CleanAr.Infrastructure.dll
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastructure.pdb
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\ref\CleanAr.Infrastructure.dll
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Infrastracture\obj\Debug\net8.0\CleanAr.Infrastructure.sourcelink.json

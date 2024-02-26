@@ -10,3 +10,4 @@ G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Domain\obj\Debug\net8.0\
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Domain\obj\Debug\net8.0\CleanAr.Domain.pdb
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Domain\obj\Debug\net8.0\ref\CleanAr.Domain.dll
 G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Domain\obj\Debug\net8.0\CleanAr.Domain.csproj.AssemblyReference.cache
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Domain\obj\Debug\net8.0\CleanAr.Domain.sourcelink.json
