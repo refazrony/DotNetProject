@@ -18,13 +18,13 @@ namespace CleanAr.Application.Blogs.Queries.GetBlogs
         {
             var blogs = await _blogRepository.GetAllBlogsAsync();
 
-            // var blogList = blogs.Select(x => new BlogVm
-            // {
-            //     Author = x.Author,
-            //     Name = x.Name,
-            //     Description = x.Description,
-            //     id = x.id
-            // }).ToList();
+            //var blogList = blogs.Select(x => new BlogVm
+            //{
+            //    Author = x.Author,
+            //    Name = x.Name,
+            //    Description = x.Description,
+            //    id = x.id
+            //}).ToList();
 
             var blogList = _mapper.Map<List<BlogVm>>(blogs);
 

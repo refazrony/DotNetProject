@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanAr.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28fa995dd9ce2525045ccbd8bee1c9cf9d18b12b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanAr.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanAr.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
