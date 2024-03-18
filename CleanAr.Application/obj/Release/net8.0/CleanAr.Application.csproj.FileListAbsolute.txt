@@ -1,0 +1,16 @@
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\bin\Release\net8.0\CleanAr.Application.deps.json
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\bin\Release\net8.0\CleanAr.Application.dll
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\bin\Release\net8.0\CleanAr.Application.pdb
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\bin\Release\net8.0\CleanAr.Domain.dll
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\bin\Release\net8.0\CleanAr.Domain.pdb
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\CleanAr.Application.csproj.AssemblyReference.cache
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\CleanAr.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\CleanAr.Application.AssemblyInfoInputs.cache
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\CleanAr.Application.AssemblyInfo.cs
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\CleanAr.Application.csproj.CoreCompileInputs.cache
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\CleanAr.Application.sourcelink.json
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\CleanAr.Application.csproj.CopyComplete
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\CleanAr.Application.dll
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\refint\CleanAr.Application.dll
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\CleanAr.Application.pdb
+G:\Practice\ASP_DOT_NET\web_api\CleanAr\CleanAr\CleanAr.Application\obj\Release\net8.0\ref\CleanAr.Application.dll

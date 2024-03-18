@@ -6,7 +6,7 @@ using MediatR;
 
 namespace CleanAr.Application.Blogs.Commands.CreateBlog
 {
-    class CreateBlogCommandHandler : IRequestHandler<CreateBlogCommand, BlogVm>
+   public class CreateBlogCommandHandler : IRequestHandler<CreateBlogCommand, BlogVm>
     {
         private readonly IBlogRepository _blogRepository;
         private readonly IMapper _mapper;
